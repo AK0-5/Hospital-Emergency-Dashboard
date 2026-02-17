@@ -70,6 +70,3 @@ tory
 4. Interact with slicers and visuals
 
 ---
-
-## 📌 Author
-**Atharv Kinjawadekar**
