@@ -66,8 +66,8 @@ It analyzes patient admissions, waiting time, demographics, and departmental ref
 ---
 
 ## Files in this Repository
-- Power BI dashboard file (.pbix)
-- Dataset (CSV)
-- Project documentation
+- [Power BI dashboard file (.pbix)](https://github.com/AK0-5/Hospital-Emergency-Dashboard/blob/main/Hospital%20Emergency%20Room%20Dashboard.pbix)
+- [Dataset (CSV)](https://github.com/AK0-5/Hospital-Emergency-Dashboard/blob/main/Hospital%20ER_Data.csv)
+- [Project documentation](https://github.com/AK0-5/Hospital-Emergency-Dashboard/blob/main/Hospital%20Emergency%20Dashboard%20Analsyis.docx)
 
 ---
