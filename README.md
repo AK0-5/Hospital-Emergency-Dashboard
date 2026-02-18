@@ -24,7 +24,7 @@ It analyzes patient admissions, waiting time, demographics, and departmental ref
 
 ## Dashboard Pages
 
-### 1️Monthly View
+### 1️.Monthly View
 - KPIs:
   - Number of Patients
   - Average Waiting Time
@@ -35,15 +35,17 @@ It analyzes patient admissions, waiting time, demographics, and departmental ref
 - Age group, gender, race, and department analysis
 - Hourly and daily patient flow visualization
 
+<img width="1155" height="705" alt="image" src="https://github.com/user-attachments/assets/b4798c13-f959-40a4-a0b5-5fbd162eda95" />
+
 ---
 
-### 2️Cons olidated View
+### 2️.Consolidated View
 - Similar to Monthly View
 - Allows filtering by **day, month, and year** for flexible analysis
 
 ---
 
-### 3️Patient Detail View
+### 3.Patient Detail View
 - Complete patient-level data
 - Conditional formatting for:
   - Waiting time > 30 minutes
@@ -58,15 +60,10 @@ It analyzes patient admissions, waiting time, demographics, and departmental ref
 - Supports data-driven hospital management decisions
 
 ---
-tory
+
+## Files in this Repository
 - Power BI dashboard file (.pbix)
 - Dataset (CSV)
-## Fes in this Reposi
 - Project documentation
-
----
-
-3. Load the dataset if prompted
-4. Interact with slicers and visuals
 
 ---
