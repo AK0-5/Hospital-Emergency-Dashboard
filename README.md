@@ -43,6 +43,8 @@ It analyzes patient admissions, waiting time, demographics, and departmental ref
 - Similar to Monthly View
 - Allows filtering by **day, month, and year** for flexible analysis
 
+<img width="1158" height="705" alt="image" src="https://github.com/user-attachments/assets/6c51937b-78b1-4b30-bf81-b36a629b8979" />
+
 ---
 
 ### 3.Patient Detail View
@@ -50,6 +52,8 @@ It analyzes patient admissions, waiting time, demographics, and departmental ref
 - Conditional formatting for:
   - Waiting time > 30 minutes
   - Admission status highlighting
+
+<img width="1159" height="708" alt="image" src="https://github.com/user-attachments/assets/77d05bc4-aee5-4157-b7e4-743301166789" />
 
 ---
 
